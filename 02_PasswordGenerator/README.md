@@ -21,7 +21,7 @@ This is a simple Python-based Password Generator that creates strong and secure 
 🚀 How to Run
 
 1. Clone the repository
-git clone https://github.com/your-username/PasswordGenerator.git
+git clone https://github.com/dakshinyaro/PasswordGenerator.git
 
 2. Go to project folder
 cd PasswordGenerator
@@ -40,6 +40,7 @@ Generated Password: A8@kP2!zX9
 PasswordGenerator/
 │
 ├── main.py
+
 └── README.md
 
 ---
